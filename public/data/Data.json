@@ -1,0 +1,98 @@
+[
+    {
+        "id": 0,
+        "category": "fruit",
+        "url": "/img/apple.jpg",
+        "price": "17.00",
+        "des": "Apple dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Apple"
+    },
+    {
+        "id": 1,
+        "category": "vegetable",
+        "url": "/img/mungBean.png",
+        "price": "16.00",
+        "des": "Mung Bean dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Mung Bean"
+    },
+    {
+        "id": 2,
+        "category": "fruit",
+        "url": "/img/brownHazelnut.png",
+        "price": "18.00",
+        "des": "Brown Hazelnut dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Brown Hazelnut"
+    },
+    {
+        "id": 3,
+        "category": "vegetable",
+        "url": "/img/onion.png",
+        "price": "17.00",
+        "des": "Onion dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Onion"
+    },
+    {
+        "id": 4,
+        "category": "vegetable",
+        "url": "/img/cabbage.png",
+        "price": "15.00",
+        "des": "Cabbage dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Cabbage"
+    },
+    {
+        "id": 5,
+        "category": "fruit",
+        "url": "/img/banana.png",
+        "price": "18.00",
+        "des": "Banana dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Banana"
+    },
+    {
+        "id": 6,
+        "category": "fruit",
+        "url": "/img/whiteNuts.png",
+        "price": "20.00",
+        "des": "White Nuts dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "White Nuts"
+    },
+    {
+        "id": 7,
+        "category": "vegetable",
+        "url": "/img/broccoli.png",
+        "price": "18.00",
+        "des": "Broccoli dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Broccoli"
+    },
+    {
+        "id": 8,
+        "category": "fruit",
+        "url": "/img/corn.png",
+        "price": "17.00",
+        "des": "Fresh Corn dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Fresh Corn"
+    },
+    {
+        "id": 9,
+        "category": "fruit",
+        "url": "/img/almond.png",
+        "price": "21.00",
+        "des": "Almonds dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Almonds"
+    },
+    {
+        "id": 10,
+        "category": "fruit",
+        "url": "/img/whiteHazelnut.png",
+        "price": "19.00",
+        "des": "White Hazelnut dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "White Hazelnut"
+    },
+    {
+        "id": 11,
+        "category": "vegetable",
+        "url": "/img/tomato.png",
+        "price": "17.00",
+        "des": "Tomato dummy text of the printing and typesetting industry. Lorem had ceased to been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley.",
+        "title": "Tomato"
+    }
+]

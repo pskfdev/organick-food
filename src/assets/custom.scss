@@ -1,0 +1,33 @@
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+
+$enable-negative-margins: true; //add margin negative
+
+$spacer: 1rem;
+$spacers: (
+    0: 0,
+    1: ($spacer * .25),
+    2: ($spacer * .5),
+    3: $spacer,
+    4: ($spacer * 1.5),
+    5: ($spacer * 3),
+    6: ($spacer * 3.5),
+    7: ($spacer * 6)
+);
+
+//add new color
+$custom-colors: (
+    "custom-primary": #274C5B,
+    "custom-secondary": #7EB693,
+    "custom-success": #EFF6F1,
+    "custom-yellow": #EFD372,
+    "custom-gray": #D4D4D4,
+    "custom-white": #F9F8F8,
+    "custom-dark": #525C60,
+    "custom-banner": #F1EFF0,
+);
+
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+
+@import "../../node_modules/bootstrap";

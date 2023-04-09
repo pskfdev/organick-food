@@ -1,0 +1,29 @@
+/* .nav-active .active {
+  color: #fff;
+} */
+.App {
+  display: flex;
+  flex-flow: column nowrap;
+  min-height: 100vh;
+}
+.main {
+  flex-grow: 1;
+}
+
+ul li {
+  list-style: none;
+}
+ul li a {
+  text-decoration: none;
+  padding: 10px 15px;
+  background-color: #eff6f1;
+  border-radius: 50%;
+  color: #274c5b;
+}
+
+ul li a:hover {
+  background-color: #acc4b2;
+  color: #274c5b;
+  padding: 10px 15px;
+  transition: 0.5s ease-in-out;
+}
