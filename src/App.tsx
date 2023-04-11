@@ -14,6 +14,7 @@ import Contact from "../src/pages/client/Contact";
 import Footer from "./components/footer/Footer";
 import ProductDetail from "./pages/client/ProductDetail";
 import Cart from "./pages/client/Cart";
+import PageNotFound from "./pages/client/PageNotFound";
 
 export const DataContext = createContext<any>(undefined);
 
@@ -53,7 +54,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/product-detail/:id" element={<ProductDetail />} />
             <Route path="/cart" element={<Cart />} />
-            <Route path="*" element={<p>Not page</p>} />
+            <Route path="*" element={<PageNotFound />} />
           </Routes>
         </div>
 
