@@ -28,11 +28,6 @@ function Footer() {
 
           <div className="w-100 text-center px-0 px-lg-5 px-md-2">
             <h3 className="text-custom-primary">
-              <img
-                src="/public/salad.ico"
-                alt="logo"
-                style={{ width: "30px" }}
-              />{" "}
               Organick
             </h3>
 

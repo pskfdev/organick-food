@@ -14,7 +14,6 @@ function Navigation() {
       <Navbar bg="light" expand="lg" sticky="top" className="py-4">
         <Container>
           <Navbar.Brand as={Link} to="/">
-            <img src="/public/salad.ico" alt="logo" style={{ width: "30px" }} />{" "}
             <span className="text-custom-primary">Organick</span>
           </Navbar.Brand>
           <Navbar.Toggle />
